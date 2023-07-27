@@ -9,7 +9,7 @@ uri = "mongodb+srv://anuj:anuj123@cluster0.gkuhm4l.mongodb.net/?retryWrites=true
 client = MongoClient(uri)
 
 # create database name and collection name
-DATABASE_NAME="wafer"
+DATABASE_NAME="wafer_collection"
 COLLECTION_NAME="waferfault"
 
 # read the data as a dataframe

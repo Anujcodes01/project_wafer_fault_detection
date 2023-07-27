@@ -134,9 +134,10 @@ dmypy.json
 .pyre/
 
 demo.py
-artifacts
+artifacts/
 prediction_artifacts
 predictions
 test.ipynb
+deployment_documentation/
 
 #test
